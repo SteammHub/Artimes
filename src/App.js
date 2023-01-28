@@ -34,10 +34,6 @@ function App() {
       <div>
         <Help />
       </div>
-      <div>
-        
-        <Closer />
-      </div>
 
       <div>
         {/* <Video /> */}
