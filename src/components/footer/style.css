@@ -1,0 +1,32 @@
+.footer{
+    background-color:#041D2E ;
+}
+.first{
+    margin-right: 15rem;
+  
+}
+.second {
+   margin-left: 9rem;
+}
+.fist-p{
+    font-size: 2rem;
+    margin-right: 13rem;
+}
+.first-desc{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+}
+.first-li{
+    display: inline;
+    margin-right: 3rem;
+    color:white
+}
+.sec-email{
+    width: 20rem;
+    height: 3rem;
+    border-radius: 30px;
+    margin-left: 4rem;
+}
+.sec-check{
+    color: white;
+}

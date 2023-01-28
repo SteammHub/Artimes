@@ -1,0 +1,32 @@
+.video-cont{
+    width:45%;
+    height: 10%;
+   
+}
+.h3-video{
+    color:black;
+    font-size: 2rem;
+}
+.p-video{
+    color:black;
+    font-size: 1rem;
+
+}
+/* .wrapper{
+    width: 500px;
+    border: 1px ;
+    overflow: hidden; 
+    margin-left: 40%;
+    
+}
+.first{
+    width: 300px;
+    float:left; 
+    border: 1px ;
+    
+}
+.second{
+    border: 1px ;
+    overflow: hidden; 
+} */
+

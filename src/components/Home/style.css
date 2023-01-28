@@ -1,0 +1,100 @@
+h3{
+    font-size: x-large;
+    color:white;
+    font-size: 4rem;
+}
+.no-logo{
+    color:#34797D;
+    font-size: 9rem;
+}
+.quote{
+    font-size: 2rem;
+}
+.home{
+    /* background-image: url("../../imgs/Artemis.jpg"); */
+   
+    height:66rem;
+    width: 100%;
+    height: 100vh;
+   
+}
+.content{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    color: white;
+}
+video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+.get-btn{
+ background-color: #34797D ; 
+  border: none;
+  color: white;
+  padding: 13px 31px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15; 
+}
+
+.how-btn{
+  background-color: white ; 
+  border: none;
+  color: #34797D;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left:3rem;
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  
+
+}
+.how-btn, .get-btn:hover{
+    cursor: pointer;
+}
+.alert{
+    background-color: #6366F1;
+    
+}
+.a-alert{
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    display: block;
+    padding: 0.2rem;
+    text-align: center;
+    --tw-text-opacity: 1;
+    color: rgba(255, 255, 255, var(--tw-text-opacity))
+}
+.a-alert:hover{
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+}
+@media screen and (max-width: 768px) {
+    .how-btn, .get-btn{
+        padding: 10px 30px;
+        
+
+    }
+    .no-logo{
+        font-size: 6rem;
+    }
+
+}

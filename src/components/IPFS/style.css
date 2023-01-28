@@ -1,0 +1,32 @@
+.IPFS{
+    background-color: #041D2E;
+}
+.install{
+    color: white;
+    font-size: 2rem;
+    padding-top: 4rem;
+}
+.option-title{
+    color: #6BC4CE ;
+    font-size: 1.5rem;
+    margin-right: 70%;
+   
+}
+.option-desc{
+    color:white
+}
+.Install{
+  background-color: white; 
+  border: none;
+  color:#34797D ;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 19px;
+}
+.Install:hover{
+    background-color: #34797D ; 
+    color:white;
+}

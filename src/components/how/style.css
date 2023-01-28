@@ -1,0 +1,15 @@
+.how{
+    color: black;
+    font-size: 2rem;
+    padding-top: 4rem;
+}
+.happens{
+    color: black;
+    font-size: 1.3rem;
+}
+.gird-width{
+    max-width: 80%;
+}
+.desc{
+    text-transform: lowercase;
+}

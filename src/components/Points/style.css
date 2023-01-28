@@ -1,0 +1,26 @@
+.quoteSent{
+    font-size: 2rem;
+    color:black;
+    padding-top: 4rem;
+    
+}
+span{
+    color:#34797D
+}
+.title{
+    color:black;
+    font-size: 1.5rem;
+}
+.desc{
+    color:black;
+    font-size: 1rem;
+}
+.grid:hover{
+    background-color: white;
+    
+
+}
+.card-ben:hover{
+    background-color: aqua;
+
+}

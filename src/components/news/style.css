@@ -1,0 +1,19 @@
+.h3-blog,.date-blog,.p-blog{
+    color:black;
+    font-size: 1.7;
+}
+.date-blog{
+
+}
+.p-blog{
+    font-weight: bolder;
+    color:#34797D;
+}
+.p-blog:hover{
+    cursor: pointer;
+}
+.video{
+    width: 25rem;
+    height: 20rem;
+    margin-left: 10rem;
+}

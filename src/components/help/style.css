@@ -1,0 +1,12 @@
+.help{
+    color: black;
+    font-size: 2rem;
+    padding-top: 4rem;
+}
+.help-desc{
+    color:black;
+    font-size: 1.3rem;
+}
+.col-help{
+   margin-right: 6rem;
+}
